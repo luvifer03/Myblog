@@ -1,0 +1,10 @@
+# basic options, hello
+title:My blog
+author: Luvifer
+email: aashishsolanki1@gmail.com
+description: a nubbie
+github_username: luvifer03
+
+# Build settings
+mardown: kramdown
+theme: minima
